@@ -1,9 +1,10 @@
-baseURL = "http://example.com/"
+baseURL = "https://giselli.github.io/"
 languageCode = "en-us"
-title = "Titulo Minimal"
+title = "Giselli's Personal Page"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+# disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "giselli.github.io"
 
 [params]
     author = "Calin Tataru"
@@ -37,7 +38,7 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:gi@hara.ninja"
     name = "envelope-o"
     weight = 1
 
@@ -47,16 +48,16 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/pyrostegia/"
     name = "twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/giselli-hara/"
     name = "linkedin"
     weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/username/"
+#    name = "stack-overflow"
+#    weight = 5
